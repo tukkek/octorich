@@ -11,9 +11,7 @@ To get help, discuss the mod or just to say thanks, join my Discord server at ht
 ## Installing
 
 1. Download the latest release from https://github.com/tukkek/octorich/releases .
-2. Place the file on your game's installation `Paks` folder:
- * Default location on Windows: `...\Documents\My Games\Octopath_Traveler\...\SaveGames\`
- * Default location on Proton: `.../steamapps/common/OCTOPATH TRAVELER/Octopath_Traveler/Content/Paks/`
+2. Place the file on your game's installation `Paks` folder (`.../steamapps/common/OCTOPATH TRAVELER/Octopath_Traveler/Content/Paks/`).
 
 ### Compatibility
 
