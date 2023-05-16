@@ -16,6 +16,12 @@ To get help, discuss the mod or just to say thanks, join my Discord server at ht
 Default location on Windows: `...\Documents\My Games\Octopath_Traveler\...\SaveGames\`
 Default location on Proton: `.../steamapps/common/OCTOPATH TRAVELER/Octopath_Traveler/Content/Paks`
 
+### Compatibility
+
+* Intended for use with the Steam version of the game
+* Does not require a new save game
+* Compatible with all mods that don't also modify any `EnemyDB` files
+
 ## Rationale
 
 Octopath Traveller is a JRPG with unparalelled replay-value and combat depth (comparable only to Saga and Bravely games) but these qualities are diametrically opposed to the incredible amount of artificial padding put into the campaign. [As one reviewer puts it](https://www.rockpapershotgun.com/octopath-traveler-pc-review):
@@ -30,7 +36,7 @@ NPCs were not altered simply because of how many of them there are, with no majo
 
 I would like to apologize to absolutely everyone on Earth for not making this a x8 increase globally but just adding a 0 to hundreds of fields was simply easier. If anyone wants to help remake the mod with a JSON based pipeline let me know so we can get The Right Thing™ done.
 
-### Credits
+## Credits
 
 * Squeenix and Acquire for creating the game https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/
 * Ben for the Octomod Editor https://github.com/ItsBenOnceAgain/OctomodEditor/
