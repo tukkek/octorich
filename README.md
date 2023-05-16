@@ -57,4 +57,4 @@ I would like to apologize to absolutely everyone on Earth (and the International
 * Squeenix and Acquire for creating the game https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/
 * Ben for the Octomod Editor https://github.com/ItsBenOnceAgain/OctomodEditor/
 * UnrealPak https://github.com/allcoolthingsatoneplace/UnrealPakTool
- * Note that newer version don't work well with Ocotpath, try an older one instead such as https://github.com/allcoolthingsatoneplace/UnrealPakTool/issues/10#issuecomment-1001258117 .
+  * Note that newer versions don't work well with Octopath. If needed, try an older one instead such as https://github.com/allcoolthingsatoneplace/UnrealPakTool/issues/10#issuecomment-1001258117 .
