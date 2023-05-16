@@ -33,9 +33,9 @@ NPCs were not altered simply because of how many of them there are, with no obvi
 
 ### Analysis of the vanilla economy
 
-I spent a couple hours testing with the game open and crushing numbers, which informed my decision to create this mod: 
+I spent a couple hours testing with the game open and crunching numbers, which informed my decision to create this mod: 
 
-1. Gear is huge in OT (you can go from 10 to 100 damage with one decent weapon upgrade). The math showed me it would take me 20-30 hours grinding level +0 to +10 encounters to buy all major upgrades for a party of 4 (not 8) - and by "major upgrades" I mean not going for all best-in-slot items but a more reasonable, cost-efficient approach.
+1. Gear is huge in OT (you can go from 10 to 100 damage with one decent weapon upgrade). The math showed me it would take 20-30 hours of grinding level +0 to +10 encounters to buy all major upgrades for a party of 4 (not 8) - and by "major upgrades" I mean not going for all best-in-slot items but a more reasonable, cost-efficient approach.
 2. If not to grind gear upgrades, grinding 10 levels worth of experience, again from +0 to +10 areas, would have taken me 7 hours (calculated between -5 and +5 to account for mid-grind power gain).
 3. Even if I were to grind a factor of that time, the most time-effective area to do it had exactly 1 variety to enemy formation (hardly content suited to hours of play)...
 4. Going to a level +10 area resulted in about a 20% increase in experience rewards, while fights took twice as long - and roughly 0% benefit to money rewards in most cases.
