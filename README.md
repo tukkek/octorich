@@ -19,6 +19,10 @@ To get help, discuss the mod or just to say thanks, join my Discord server at ht
 * Does not require a new save game.
 * Compatible with all mods that don't also modify `EnemyDB` files.
 
+## See also
+
+* Octopathfinder, randomized open-world challenge generator https://github.com/tukkek/octopathfinder/
+
 ## Rationale
 
 Octopath Traveller is a JRPG with unparalelled replay-value and combat depth (comparable only to Saga and Bravely games) but these qualities are diametrically opposed to the incredible amount of artificial padding put into the campaign. As one reviewer puts it:
